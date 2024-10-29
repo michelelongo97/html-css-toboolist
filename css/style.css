@@ -36,7 +36,7 @@ header{
     padding: 20px 50px;
     background-color: white;
     width: 400px;
-    height: 500px;
+    height: 550px;
     margin: 50px auto;
     border-radius: 10px;
 }
@@ -88,6 +88,7 @@ header{
     color: white;
     border-radius: 20px;
     font-size: 15px;
+    border: 1px solid white;
 }
 
 .bluebutton{
