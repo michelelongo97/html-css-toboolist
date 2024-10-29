@@ -66,17 +66,42 @@ header{
     color: green;
     font-size: 15px;
     display: inline;
-    
+}
+
+.cross{
+    padding: 3px 5px;
+    border: 1px solid red;
+    border-radius: 100%;
+    text-align: center;
+    color: red;
+    font-size: 15px;
+    display: inline;
 }
 
 .description{
     color: black;
 }
 
-.bluebutton{
+.btn{
     padding: 3px 15px;
     background-color: #14AAF5;
     color: white;
     border-radius: 20px;
     font-size: 15px;
+}
+
+.bluebutton{
+    background-color: #14AAF5;
+}
+
+.purplebutton{
+    background-color: #ab5de6;
+}
+
+.greenbutton{
+    background-color: #2CC6AB;
+}
+
+.orangebutton{
+    background-color: #FF9B00;
 }
