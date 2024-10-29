@@ -58,3 +58,25 @@ header{
     width: 80px;
     height: 25px;
 }
+.circle{
+    padding: 3px 5px;
+    border: 1px solid green;
+    border-radius: 100%;
+    text-align: center;
+    color: green;
+    font-size: 15px;
+    display: inline;
+    
+}
+
+.description{
+    color: black;
+}
+
+.bluebutton{
+    padding: 3px 15px;
+    background-color: #14AAF5;
+    color: white;
+    border-radius: 20px;
+    font-size: 15px;
+}
