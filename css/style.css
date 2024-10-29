@@ -36,7 +36,7 @@ header{
     padding: 20px 50px;
     background-color: white;
     width: 400px;
-    height: 400px;
+    height: 500px;
     margin: 50px auto;
     border-radius: 10px;
 }
@@ -105,3 +105,12 @@ header{
 .orangebutton{
     background-color: #FF9B00;
 }
+
+.fuxiabutton{
+    background-color: #EC4A9D;
+}
+
+.limebutton{
+    background-color: #A3D116;
+}
+
