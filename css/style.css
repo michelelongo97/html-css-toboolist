@@ -91,7 +91,7 @@ main{
 
 .btn{
     padding: 3px 15px;
-    background-color: #14AAF5;
+    min-width: 100px;
     color: white;
     border-radius: 20px;
     font-size: 15px;
